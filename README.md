@@ -30,8 +30,8 @@ create a virtaul environment and then activate it using following commands
 ```
 clone the git repo
 ```bash
-  git clone https://github.com/prajwal-3-14159/Engage-2022-face-detection.git
-  cd Engage-2022-face-detection
+  git clone https://github.com/prajwal-3-14159/Lambda-2022-project.git
+  cd Lambda-2022-project
 ```
 install the requirements.
   
