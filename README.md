@@ -48,6 +48,11 @@ run the app using
 ```bash
    python app.py
 ```  
+if a new image is added run pickling.py before app.py
+```bash
+   python pickling.py
+   python app.py
+```  
 ## Tech Stack
 
 Flask web framewok, python, Bootsrap, html, css, sqlite, sqlalchemy 
