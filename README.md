@@ -9,7 +9,7 @@ It's a face recognition based attention/attendance measuring web app written in 
     here, instructors mail id is: clientmail31415@gmail.com and the servers mail id 
     is: servermail314@gmail.com.
     Passwords of both mail ids is: Qmpzg+123
-    After adding the images the pickling.py file should be run to train the images 
+    After adding new images the pickling.py file should be run to train the images 
     the web app deplyed on heroku link: https://engage-2022-face-recognition.herokuapp.com/
  
  ## student and admin login
