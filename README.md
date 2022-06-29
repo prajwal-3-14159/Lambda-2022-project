@@ -11,8 +11,8 @@ It's a face recognition based attention/attendance measuring web app written in 
     Passwords of both mail ids is: Qmpzg+123
     the mail is sent using smpt, and app passwords since google is removing support for
     less secure apps from 30 may it may not work later.
-    the web app deplyed on heroku link: [web app link](https://engage-2022-face-recognition.herokuapp.com/)
-    YouTube video link: [YouTube link](https://www.youtube.com/watch?v=mdvOHPjHOjo)
+    the web app deplyed on heroku link: https://engage-2022-face-recognition.herokuapp.com/
+    YouTube video link: https://www.youtube.com/watch?v=mdvOHPjHOjo
  
  ## student and admin login
 
